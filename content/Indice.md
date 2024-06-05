@@ -14,7 +14,7 @@ Roleplay: Medio-alto
 Numero di PG: 4 giocatori
 Modalità passaggio di livello lv: Punti esperienza
 Manuali disponibili: '"Manuale del giocatore", "Guida Omnicomprensiva di Xanathar", "Calderone Omnicomprensivo di Tasha", le razze presenti in "Mostri del Multiverso"'
-Restrizione: No personaggi malvagi, no razze volanti
+Restrizione: No personaggi malvagi, no razze volanti dal lv 1
 ---
 
 # Introduzione
