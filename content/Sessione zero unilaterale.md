@@ -68,10 +68,84 @@ NOTA: il PDF è stato tradotto in italiano con google traslate dall'inglese, per
 ### Razze e classi
 
 - **Razze consentite/non consentite** - sono proibite le razze che possono volare già dal livello 1 come Fate e Aaracokra. Si possono usare le razze del Manuale del giocatore di Volo, Mostri del multiverso e Guida per gli avventurieri alla costa della spada. 
-- **Modifica/reflavor di razze** - si ne possiamo parlare.
+- **Modifica/reflavor di razze** - Per i reflavor non c'è problema. Per modifiche a livello di meccaniche se ne può parlare. Basta tenere presente il bilanciamento.
 - **Classi consentite** - tutte quelle del "Manuale del giocatore", "Guida Omnicomprensiva di Xanathar", "Calderone Omnicomprensivo di Tasha"
-- **Classi di ritocco/reflavor** - come sopra, se ne può parlare e si valuta
+- **Classi di ritocco/reflavor** - come sopra, si per il reflavor, per classi nuove se ne può parlare e si valuta.
 
 ### Stile di gioco, stile di vita del personaggio
 
-- **Tipo di gioco** - 
+- **Tipo di gioco** - Lo stile di campagna è quello lineare, che è diverso dal railroading. (in questo video viene ben spiegato [link](https://www.youtube.com/watch?v=DJrvCbIFO1Q)). In pratica nel sandbox pure i giocatori fanno quello che vogliono senza vincoli o storie predeterminate e il master gli mette roba davanti con cui giocare. Nel railroading, il master obbliga i pg a seguire una certa storia. Nel storia lineare invece, il master mette davanti ai giocatori delle situazioni che portano a delle conseguenze e i pg devono farci i conti. Quindi c'è una certa sequezialità negli eventi, ma i PG sono liberi di percorrere la strada che vogliono, poi il mondo va avanti per conto suo a prescindere. 
+- **Durata della campagna** - più o meno dal lv 1 fino al 15 o giù di lì. La campagna sarà ambientata lunga la costa della spada e prenderò ispirazione dai moduli ufficiali "Tyranny of Dragons" e forse anche da "Storm king's Thunder", essendo entrambe ambientate in quel territorio ed entrambe hanno una parte centrale abbastanza open world dove posso dare spazio alla storia dei personaggi.
+- **Avventurieri nel gioco** - gli avventurieri vengono visti come persone competenti a cui le persone posso eventualmente affidarsi per svolgere compiti pericolosi. Non sono necessariamente tutti buoni ne malvagi. I PG possono decidere di far parte o di voler entrare a far parte durante il gioco di una fazione e/o gilda di avventurieri.
+- **Politica e fazioni nel gioco** - le fazioni sono quelle famose dei reami dimenticati ovvero:
+	- Alleanza dei Lords
+	- Gli arpisti
+	- L'ordine del guanto
+	- L'enclave di smeraldo
+	- Gli Zhentarim
+	- eventuali altre homebrew che possono creare i PG dal proprio background
+- **Inizio** - Si parte dal livello 1
+- **Contesto del personaggio** - Per le conoscenze comuni del mondo di gioco, vi verranno dette quando ce ne sarà bisogno, come per esempio che cos'è una certa fazione che è conosciuta da tutti. 
+
+### Backgrounds, talenti e cavalcature
+
+- **Backgrounds** - si possono usare i background dei manuali ufficiali. Eventuali reflavour sono ben accetti.
+- **Talenti** - I talenti ufficiali sono tutti permessi. 
+- **Cavalcature** - si le cavalcature si possono ottenere in game. Il giocatore che le desidera deve imparare bene da se le regole connesse in modo che io debba memorizzarle tutte.
+
+### Regole generali sulle meccaniche
+
+- **Prepara un'azione** - preparare una azione necessità di un trigger percepibile per innescare l'azione preparata (esempio, trattengo la mia azione di attacco finché un nemico non entra nel mio raggio di azione). Alcune cose da tenere a mente sono:
+	- se si prepara un incantesimo, esso consuma lo spell slot a prescindere dal rilascio, e per mantenere l'incantesimo "pronto al lancio" richiede concentrazione, quindi se un mago si sta concentrando su invisibilità, per esempio, e come azione preparata vuole lanciare Rintocco dei morti o Palla di fuoco, si inizia a concentrare su quelli e perde invisibilità. 
+	- Per i PG guerrieri, l'azione preparata non permette di usare la feature Attacco extra, quindi se normalmente puoi attaccare due volte, con l'attacco nell'azione preparata, puoi attaccare una sola volta. 
+	- Altra cosa da ricordare è che per attivare l'azione preparata richiede che il PG abbia a disposizione la sua reazione, e se la usa per altro perde l'azione preparata.
+- **Azioni bonus** - le azioni bonus è un tipo di azione che alcuni personaggi possono usare se hanno una abilità che ha il tempo di lancio di una azione. Se non non hai abilità del genere non puoi usare l'azione bonus. Possibili esempi sono, l'"azione scaltra" del rogue, o l'uso della "difesa paziente" del monaco o l'abilità "recuperare energie del guerriero". Come regola credo non si specificato che si possano attivare le azioni bonus come azioni preparate ma io non ci vedo il senso quindi per me si può fare. In quel caso si trattano come azioni normali. Ma uno non può usare una azione bonus e poi preparare l'azione per usare un'altra o la stessa azione bonus di nuovo. Perciò diciamo che se prepari l'azione per usare l'azione bonus non puoi farne una seconda durante il tuo turno. Poi ho una regola homebrew riguardo le cure che implicano l'uso di una azione bonus ma ne discuterò nel capitolo specifico delle regole homebrew.
+- **Roll di gruppo ripetuti** - ok quindi andiamo sulle parti lunghe da esporre. Partiamo con la parte facile, se è una azione che può essere ripetuta e non ci sono limiti temporali, come per esempio cercare in una stanza mentre non si è in pericolo, tipo se tutti i mostri del dungeon sono morti e non possono esserci random encounter, e si vuole dedicare tanto tempo alla ricerca, è un successo automatico e non faccio neanche tirare. Ok, ora per la parte non semplice. Io uso una regola homebrew che ho preso da questo [blog](https://theangrygm.com/tweaking-the-core-of-dd-5e/) per gestire i check di gruppo. Meglio spiegarlo in una sezione a parte ([[Gestione dei check di gruppo]]).
+- **Tempi di inattività/Creazione** - si cercherò di dare dei tempi di downtime quando si chiude un arco narrativo. Probabilmente una cosa come due settimane. In quel periodo i personaggi possono svolgere le attività che vogliono, come per esempio quelle suggerite nel manuale di Xanathar.
+- **Regole meccaniche aggiuntive** - mmm quindi si potrebbero dire varie cose. Dirò che io uso molto i check passivi, come la percezione passiva per notare le cose non nascoste, in modo che quando entrate in una stanza vi dico direttamente cosa vedete senza che voi dobbiate tirare su percezione. Questo ovviamente non conta per le azioni attive come l'azione "cercare". Altra cosa che alcuni non fanno è che io uso effettivamente le regole per la visibilità. Se siete in un dungeon con solo luce fioca, (questo è equivalente a quando un giocatore ha scurovisione ed è al buio), fa le prove di percezione con svantaggio e ha -5 alla percezione passiva.
+
+### Ispirazione
+
+- Io non uso la regola di ispirazione. Preferisco usare la regola "Punti Eroe" per compensare la mancanza di questa regola.
+
+### Prove di vantaggio, svantaggio e abilità
+
+- **Impilamento (Stacking)** - non c'è lo stacking come da RAW.
+- **Dare aiuto (Help action)** - per alcune attività è richiesta la competenza per poter dare aiuto. Per dare un idea, sulle cose per cui serve studiare, come l'uso di strumenti, o le prove di arcano, medicina, natura, sopravvivenza. Mentre non servono per azioni come cercare(percezione), sollevare oggetti pesanti(atletica), distrarre una guardia(intrattenere), ecc.
+- **Tentativi multipli** - si se l'attività si può ripetere, si può tentare di nuovo. Ovviamente di solito in questi casi o c'è un rischio nel farlo ad esempio ci metti tanto tempo è puoi essere scoperto da una guardia di passaggio, oppure se non c'è una conseguenza nella ripetizione diventa un successo automatico ma ci metto del tempo in più (ad esempio un ora di tempo per aprire la serratura).
+- **Critical Fumble** - no nessun fumble critico, da RAW i fumble non esistono. Al massimo c'è scritto che se un giocatore fa 1 su un tiro di abilità o tiro salvezza, il master può aggiungere qualcosa di flavour per rendere più epico il fallimento ma niente di più. In combattimento se fai 1 semplicemente manchi a prescindere dai bonus. Per un tiro di abilità se fai 1 potrei dire che ad esempio il ladro rompe i suoi attrezzi da scasso nel tentativo di scassinare, ma niente di apocalittico. Sui tiri salvezza invece non cambia niente, semplicemente fallisci.
+- **Successo critico** - non esiste il critico sui tiri di abilità. Se fai 20 per sedurre un drago non è un successo automatico (in realtà se la prova la reputo impossibile non ti faccio proprio tirare).
+- **Fallimento critico** - Come detto prima, al massimo posso aggiungere qualcosa di flavour ai tiri di abilità in base alla situazione per evidenziare il particolare modo in cui uno fallisce, ma non è una regola che applico spesso e comunque non sarebbe niente di veramente penalizzante.
+
+### Furtività
+
+- **Furtività** - non ci può nascondere in piena vista, a meno che uno non abbia incantesimi di invisibilità ecc. Se uno vuole nascondersi deve:
+	- prima interrompere il contatto visiva dalla soggetto da cui ti vuoi nascondere. In DnD 5e durante il combattimento non c'è un cono che indica la direzione in cui uno è girato ma si semplifica dicendo che ognuno vede a 360°, perciò serve una copertura dove effettivamente nascondersi.
+	- usare azione per nascondersi e fare un tiro di abilità Destrezza(Furtività) in una contesa contro la percezione passiva del soggetto da cui si sta nascondendo. Se la superi sei "nascosto". Se si è un Rogue si può fare come azione bonus
+	- NOTA: se attacchi, riveli automaticamente la tua posizione, quindi hai vantaggio solo sul primo attacco.
+- **Attaccante nascosto** - ho spiegato tutto nel punto precedente. La cosa che posso aggiungere è se un mostro non sa dove sei può attaccare a caso ma se non attacca nel punto dove sei effettivamente non ti può colpire (ad esempio quando sei invisibile e ti sei spostato senza farti sentire). Ovviamente puoi essere colpito da attacchi ad area.
+- **Azione Nascosta/Nascondi** - come sopra. 
+- **Invisibilità** - essere invisibile non vuol dire essere automaticamente nascosti. Una creatura invisibile deve comunque fare una azione per nascondersi per diventare "nascosto". Le altre creature possono sempre percepire i rumori e farsi una idea di dove sei e attaccarti. L'attacco viene fatto con svantaggio però perché non ti vede ma sa che ci sei.
+- **Trappole** - le trappole si troveranno dove è normale che possano trovarsi. Per esempio è molto probabile che le trovate in una tana di goblin o di briganti che vogliono difendere il proprio covo, o magari davanti l'ingresso di una camera del tesoro. Non la troverete al centro di una semplice taverna o nella sala del trono del Re. Superare le trappole si dona esperienza in base alla difficoltà nel superare la trappola. Anche i pericoli ambientali possono essere considerati trappole che vanno superate.
+
+### Oggetti magici
+
+- **Sintonizzazione/Identificazione** - no la sintonizzazione non rivela cosa fa un oggetto. Posso concedere UNA prova di arcano o storia a chi è competente, per vedere se conosce l'oggetto, ma altrimenti serve un incantesimo di "Identificare" o fare ricerche in giro, come andare in una biblioteca o chiedere ad un mago di fartelo identificare.
+- **Ridimensionamento magico** - si gli oggetti magici si ridimensionano quando li indossi o sintonizzi (se richiedono sintonia).
+- **Altre regole sugli oggetti magici** - non trovere facilmente negozi che vendono oggetti magici. Al massimo possono esserci negozi che vendono oggetti magici comuni e non comuni (solo nelle grandi città), ma gli oggetti rari si possono solo trovare e/o cercare.
+
+### Incantesimi ed effetti degli incantesimi
+
+- **Incantesimi aggiuntivi/personalizzati** - sono permessi gli incantesimi dei manuali ufficiali. Il reflavour degli incantesimi è permesso e anche incoraggiato. Il cambio di meccanica probabilmente no, ma posso valutare caso per caso. Il cambio di tipo di danno probabilmente ve lo concedo se volete fare per esempio uno stregone con incantesimi di uno stesso elemento. Non rompiamo il gioco se un incantesimo di fuoco diventare di freddo. Ovviamente ve lo boccio se lo volete far diventare di tipo "forza" solo perché è più forte.
+- **Incantesimi vs Environments** - li bisogna vedere caso per caso. Nel dubbio cerco di farli funzionare normalmente(RAW) a meno che la cosa non sia troppo strana. Per esempio se il mago si trova su una barca e lancia palla di fuoco su una testuggine draconica li vicino: se è poco sott'acqua la colpisce. Ma se è parecchi metri sotto (sempre nel raggio dell'incantesimo) allora no, perché li potrei decidere che l'acqua da copertura o simile. Sono casi limite però. Mi porrò il problema quando e se capiterà.
+- **Abuso di incantesimi** - finché è nelle regole va bene. Se proprio salta fuori un uso di un incantesimo che non rovina palesemente il divertimento a tutti allora si potrei intervenire e parlarne con l'interessato. In quel caso a fine sessione se ne parla e si trova un compromesso. Do per scontato che anche il giocatore in questione non voglia rovinare il divertimento altrui e quindi mi venga incontro. Si parlerebbe probabilmente di incantesimo di alto livello. A meno che non siamo nel caso da Meme dove il mago tira palla di fuoco colpendo sempre il party, in quel caso vuol solo dire che sei un po' stronzo.
+- **Lancio di incantesimi e giocoleria** - mi aspetto che se un incantesimo abbia l'uso di tratti somatici allora l'incantatore abbia almeno una mano libera si. Detto questo non voglio assolutamente che il giocatore inizi a dire "Prendo il focus, tiro l'incantesimo, lo metto via" ecc, anzi se lo fate vi dico di smetterla. Semplicemente basta che ne tenga conto e usi le risorse di conseguenza. Non mi metterò come un falco a controllare ma se noto che qualcosa non mi torna lo farò presente al giocatore in un momento di pausa. A volte ci sta non ricordare le componenti somatiche o materiali, purché sia in buona fede.
+- **Componenti materiali** - si, i materiali che hanno un costo specificato nella descrizione devono essere acquistati o trovati specificatamente. Non basta avere l'oro in tasca per acquistare un diamante per Raise the dead. Devi anche preoccuparti di fare scorta in città prima di andare per dungeon. Per i componenti che non indicano un valore si può usare il focus arcano come sostituto o la borsa dei componenti (do per buono che la borsa sia equivalente al focus e abbia tutto quello che serve).
+- **Modifiche agli incantesimi** - nessuna modifica agli incantesimi ufficiali.
+
+### Morte, Resurrezione, Riposo
+
+- **Morte** - se un PG muore e non può essere resuscitato o il giocatore vuole cambiarlo, si fa una nuova scheda e il personaggio verrà introdotto poi nel gruppo nella sessione successiva. Se si arriva ad un TPK qualcosa ovviamente è andato molto male ma può capitare, fa parte del gioco. In quel caso i giocatori possono decidere se vogliono continuare la stessa storia con altri personaggi (magari anche contando un salto temporale se si adatta alla storia), o iniziare una nuova campagna. Io ovviamente non cercherò mai di fare un TPK volutamente ma a volte i dadi girano male e magari si è arrivati al combattimento con poche risorse e i PG hanno deciso di non ritirarsi. In quel caso può succedere. E si, a volte, scappare è una valida opzione quando la situazione è palesemente svantaggiosa. 
+- **Resurrezione** - è possibile resuscitare tramite gli incantesimi appositi. Se nessun membro del gruppo possiede quel tipo di incantesimo è possibile partire alla ricerca di un chierico che la possieda. Ovviamente un tale livello di potere non è una cosa comune, bisogna recarsi in grandi città con grandi templi, ma non è impossibile. Nel mentre, se la quest per la resurrezione risulta essere lunga, il giocatore col PG "deceduto", potrebbe usare un NPC temporaneamente che aiuta il gruppo, o direttamente una nuova scheda che però si decide che sarà temporanea. TUTTAVIA, per evitare che la resurrezione sia data per scontata e non si abbia paura della morte, (cosa che voglio evitare assolutamente), userò la [[Regola sulla resurrezione]] utilizzata da Matthew Mercer. Permette la resurrezione ma lascia comunque la paura che se ti gira male potresti perdere il personaggio. Inoltre mi piace che gli altri membri del party debbano collaborare per aumentare le possibilità di riuscita. Oltre anche alla penalità che si cumula se uno muore troppe volte, diventa più difficile tornare in vita.
+- **Regole della morte** - Io ho deciso di non applicare la regola della "morte instantanea" anche se parte delle regole base. Non mi va che per un critico uscito ai primi livelli uno possa dover buttare un personaggio, visto che in quei livelli il rischio è molto alto. E non ho voglia di star attento a buttarvi contro solo mostri che non fanno molto danni fino a lv4. Quindi semplicemente quella regola la tolgo. PERO' applico una regola homebrew quando un personaggio viene ridotto a 0 punti ferita, ovvero c'è la possibilità che possa subire delle ferite temporanee. Potete leggere i dettagli nella sezione delle regole homebrew.
+- **Regole di riposo** - nessun modifica alle regole base

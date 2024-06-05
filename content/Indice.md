@@ -7,7 +7,7 @@ Quando: lunedì o martedì sera dalle 21 alle 24 come orario indicativo
 Genere: Fantasy Eroico
 Ambientazione: Forgotten Realms, nello specifico lungo la Costa della Spada
 Modulo: Tyranny of Dragons (non verrà seguito il modulo alla lettera ma verrà usato come ispirazione principale)
-Stile della campagna: Story driven basato sul modulo scelto, ma con incorporate le storie dei vostri PG che avranno il loro spazio nei momenti più open world della campagna
+Stile della campagna: Storia lineare in cui voglio incorporate le storie dei vostri PG che avranno il loro spazio nei momenti più open world della campagna
 Lunghezza campagna: Lv 1-15 (indicativamente 60+ sessioni ma dipende dal ritmo dei giocatori)
 Tono: Essendo una avventura eroica, ci saranno sia momenti rilassati sia momenti che richiederanno più serietà. Non sarà sicuramente tetra come può essere in Curse of Strahd. Immaginatevi una cosa alla Signore degli anelli o Legend of Vox Machina (a seconda del carattere dei PG)
 Roleplay: Medio-alto
