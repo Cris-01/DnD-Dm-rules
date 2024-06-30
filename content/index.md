@@ -1,21 +1,20 @@
----
-Titolo: Neo-Master cerca giocatori per una campagna lunga di DnD 5e
-Sistema: Dungeons and Dragons 5° edizione
-Dove: Online, piattaforma Roll20 + Discord (con webcam)
-Cadenza sessioni: una volta a settimana
-Quando: lunedì o martedì sera dalle 21 alle 24 come orario indicativo
-Genere: Fantasy Eroico
-Ambientazione: Forgotten Realms, nello specifico lungo la Costa della Spada
-Modulo: Tyranny of Dragons (non verrà seguito il modulo alla lettera ma verrà usato come ispirazione principale)
-Stile della campagna: Storia lineare in cui voglio incorporate le storie dei vostri PG che avranno il loro spazio nei momenti più open world della campagna
-Lunghezza campagna: Lv 1-15 (indicativamente 60+ sessioni ma dipende dal ritmo dei giocatori)
-Tono: Essendo una avventura eroica, ci saranno sia momenti rilassati sia momenti che richiederanno più serietà. Non sarà sicuramente tetra come può essere in Curse of Strahd. Immaginatevi una cosa alla Signore degli anelli o Legend of Vox Machina (a seconda del carattere dei PG)
-Roleplay: Medio-alto
-Numero di PG: 4 giocatori
-Modalità passaggio di livello lv: Punti esperienza
-Manuali disponibili: '"Manuale del giocatore", "Guida Omnicomprensiva di Xanathar", "Calderone Omnicomprensivo di Tasha", le razze presenti in "Mostri del Multiverso"'
-Restrizione: No personaggi malvagi, no razze volanti dal lv 1
----
+### Tabella riassuntiva
+
+| Titolo                           | Neo-Master cerca giocatori per una campagna lunga di DnD 5e                                                                                                                                                                                                                       |
+| -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sistema                          | Dungeons and Dragons 5° edizione                                                                                                                                                                                                                                                  |
+| Dove                             | Online, piattaforma Roll20 + Discord (con webcam)                                                                                                                                                                                                                                 |
+| Cadenza sessioni                 | una volta a settimana                                                                                                                                                                                                                                                             |
+| Quando                           | lunedì o martedì sera dalle 21 alle 24 come orario indicativo. 3/4 ore di gioco                                                                                                                                                                                                   |
+| Genere                           | Fantasy Eroico                                                                                                                                                                                                                                                                    |
+| Ambientazione                    | Forgotten Realms, nello specifico lungo la Costa della Spada                                                                                                                                                                                                                      |
+| Modulo                           | Pensavo di prendere come base di ispirazione per la campagna il modulo "Tyranny of dragons" e forse aggiungerci qualcosa da "Storm king's Thunder". Questo perché entrambi questi due moduli danno modo ai giocatori di esplorare la costa della spada nella sua interezza        |
+| Lunghezza campagna               | Lv 1-15 (indicativamente 60+ sessioni ma dipende dal ritmo dei giocatori)                                                                                                                                                                                                         |
+| Tono                             | Essendo una avventura eroica, ci saranno sia momenti rilassati sia momenti che richiederanno più serietà. Non sarà sicuramente tetra come può essere in Curse of Strahd. Immaginatevi una cosa alla Signore degli anelli o Legend of Vox Machina (a seconda del carattere dei PG) |
+| Livello di roleplay              | Medio-alto                                                                                                                                                                                                                                                                        |
+| Numero di giocatori              | 4 giocatori                                                                                                                                                                                                                                                                       |
+| Modalità passaggio di livello lv | Punti esperienza                                                                                                                                                                                                                                                                  |
+| Restrizioni                      | No razze volanti dal lv 1, no personaggi malvagi o eccessivamente egoisti e solitari                                                                                                                                                                                              |
 
 # Introduzione
 
@@ -38,11 +37,10 @@ Nei capitoli successivi andrò a indicare:
 - chi sono
 - domande da sessione zero
 - approfondimento su come vorrei gestire la campagna
-- passi successivi prima di partire
 - regole opzionali e homebrew
 - cosa mi aspetto dai miei giocatori
 
-Ora, se siete ancora interessati e la mia introduzione prolissa non è stata sufficiente come prima barriera di ingresso, prendetevi da bere, mettetevi seduti e preparatevi ad una luuunga lettura. 
+Ora, se siete ancora interessati e la mia introduzione prolissa non è stata sufficiente come prima barriera di ingresso, proseguite pure.
 
 # Mi presento
 
@@ -69,16 +67,7 @@ Siccome riportare tutte le risposte qui sarebbe troppo lungo per una sola sezion
 # Approfondimento sulla gestione della campagna
 
 
-
-
-# Passi successivi prima di partire
-
-
-
-
 # Regole opzionali
-
-
 
 
 # Regole homebrew
