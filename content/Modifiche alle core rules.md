@@ -1,7 +1,15 @@
-Rimetto qui il link al blog da cui mi rifaccio come fonte:
-	-[Tweaking the Core of D&D 5E](https://theangrygm.com/tweaking-the-core-of-dd-5e/) 
+Queste regole che ho deciso di provare sono prese dal seguente blog:
+	- [Tweaking the Core of D&D 5E](https://theangrygm.com/tweaking-the-core-of-dd-5e/) 
 	- [Exploration RULES!](https://theangrygm.com/exploration-rules/)
-Scusate non ho voglia di tradurre tutto; nel caso potete tradurlo direttamente con google translate.
+Scusate non ho voglia di tradurre tutto; nel caso potete tradurlo direttamente con google translate. Qui di seguito una versione breve.
+
+#### Versione TL;DR
+- Reazione - in alcuni momenti posso dar al pg l'occasione di fare una reazione in base alle informazione che ha in quel momento quando per esempio scatta un trappola prima di far fare il tiro salvezza
+- Competenza passive come conoscenza. Se il tuo pg è competente in qualcosa ottiene automaticamente delle informazioni aggiuntive senza dover chiedere dei tiri
+- Contese di abilità contro NPC. Nel caso di contese di skill si tira contro una DC fissa data dalle competenze dell'NPC invece che tirare per entrambi
+- Lavorare insieme. Invece di ricevere vantaggio dall'aiuto, si ottengono dei bonus numerici
+- Check di gruppo. A seconda delle situazione, invece che far tirare ogni PG, si fa un unico tiro in base alle competenze dei PG che stanno partecipando al check
+
 
 **_The Reaction Rule._** A GM can use the Reaction Rule whenever a character has a moment to respond to something unexpected. The GM describes what the character is aware of. The player then describes their reaction. The GM then determines if the reaction could avoid or mitigate the unexpected event, whether it can succeed, and whether it can fail. The GM then asks for a Saving Throw or Ability Check based on the action. Any spell that can be cast as a Reaction can be used in this instance.
 

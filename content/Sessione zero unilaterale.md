@@ -106,7 +106,7 @@ NOTA: il PDF è stato tradotto in italiano con google traslate dall'inglese, per
 
 ### Ispirazione
 
-- Io non uso la regola di ispirazione
+- Da definire come verrà assegnata l'ispirazione
 
 ### Prove di vantaggio, svantaggio e abilità
 
