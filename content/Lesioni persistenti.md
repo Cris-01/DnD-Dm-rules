@@ -6,8 +6,9 @@ Per esempio; Jinn viene ridotto a 0 punti ferita da un attacco in mischia che ha
 
 Una creatura potrebbe subire una ferita persistente nelle seguenti circostanze:
 - Quando subisce un colpo critico.
-- Quando scende a 0 punti ferita ma non viene ucciso sul colpo.
+- Quando scende a 0 punti ferita.
 - Quando subisce una ferita mentre è a 0 punti ferite (tiro su morte gestito normalmente).
+- Quando una singola fonte/attacco infligge 50 o più danni
 
 Per gli effetti sono state copiati da una [wiki](https://thelostarchives.fandom.com/wiki/Custom_Rules_D%26D_5e#Damage_Based_Lasting_Injuries) di un altro master.
 
