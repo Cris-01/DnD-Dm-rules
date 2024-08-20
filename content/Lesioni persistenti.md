@@ -15,8 +15,8 @@ Una creatura potrebbe subire una ferita persistente nelle seguenti circostanze:
 Per gli effetti sono state copiati da una [wiki](https://thelostarchives.fandom.com/wiki/Custom_Rules_D%26D_5e#Damage_Based_Lasting_Injuries) di un altro master.
 
 NOTA: ho fatto delle modifiche alle tabelle originali mettendo anche dei limiti in base al livello dei PG in modo che le ferite che richiedono rigenerazione o simili possano uscire solo a livelli più alti. Nel caso esca fuori un numero non compatibile col livello del party il DM opterà per un altro risultato presente in tabella che sia del livello adatto al party.
-Effetti dal 1 al e 3 che richiedono rigenerazioni sono bloccati fino al LV 13. Gli effetti del 4 che richiedono ristorazione maggiore sono bloccati fino al LV9.
-Gli effetti dal 5 al 10 sono bloccati fino al LV5.
+Effetti dal 1 al 3 che richiedono rigenerazioni sono bloccati fino al LV 13. Gli effetti del 4 che richiedono ristorazione maggiore sono bloccati fino al LV9.
+Gli effetti dal 5 al 10 sono bloccati fino al LV3.
 
 ### Acid
 
