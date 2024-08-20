@@ -9,6 +9,7 @@ Scusate non ho voglia di tradurre tutto; nel caso potete tradurlo direttamente c
 - Contese di abilità contro NPC. Nel caso di contese di skill si tira contro una DC fissa data dalle competenze dell'NPC invece che tirare per entrambi
 - Lavorare insieme. Invece di ricevere vantaggio dall'aiuto, si ottengono dei bonus numerici
 - Check di gruppo. A seconda delle situazione, invece che far tirare ogni PG, si fa un unico tiro in base alle competenze dei PG che stanno partecipando al check
+- Niente morte istantanea per danni subiti (regola personale non data dal blog)
 
 
 **_The Reaction Rule._** A GM can use the Reaction Rule whenever a character has a moment to respond to something unexpected. The GM describes what the character is aware of. The player then describes their reaction. The GM then determines if the reaction could avoid or mitigate the unexpected event, whether it can succeed, and whether it can fail. The GM then asks for a Saving Throw or Ability Check based on the action. Any spell that can be cast as a Reaction can be used in this instance.
@@ -34,3 +35,10 @@ _Example: Dave is trying to bluff his way past a guard. Dave would roll a Charis
 **_Working Together._** When two or more characters work together to accomplish the same task, the character with the higher modifier leads the effort. The leader makes the appropriate ability check and enjoys a +2 bonus for one or two helpers or a +5 bonus for three or more helpers. Characters can only work together if it is task where such help is feasible and possible. In addition, a character can only help with a task if they would not be incapable of attempting the task on their own (due to a lack of Proficiency for instance).
 
 _**Group Checks.**_ When several PCs are trying to accomplish something as a group, the GM can call for a group check. First, the GM determines whether the group will succeed if any member succeeds (such as with searching) or if the group will fail if any member fails (such as with stealth). In the first scenario, the group rolls a single check using the highest ability check modifier and proficiency bonus available to any single character. If any member of the group would have advantage on the check, the check is made with advantage. If any member of the group is benefiting from any bonuses that would apply to the check, the best single one of those bonuses is also applied to the check. In the second scenario, the group rolls a single check using the lowest ability check modifier and proficiency bonus available to any single character. If any member of the group would have disadvantage on the check, the check is made with disadvantage. If any member of the group is suffering from any penalties that would affect the check, the single worst one of those penalties is also applied to the check.
+
+------
+
+**Niente Morte Istantanea per danni elevati** (a livelli molti bassi non è divertente morire per un critico e a livelli alti semplicemente non capita mai)
+	La seguente regola non viene utilizzata: *Danni ingenti possono ucciderti all’istante. Quando il danno ti riduce a 0 punti ferita e avanzano dei punti di danno, muori se i danni restanti sono uguali o superiori ai tuoi punti ferita massimi.*
+	Incantesimi come Power Word Kill o simili funzionano normalmente.
+

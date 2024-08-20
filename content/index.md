@@ -83,6 +83,7 @@ A questo link potete trovare un elenco delle regole opzionali che utilizzerò e 
 - [[Regole per l'ottenimento dell'EXP]]
 - [[Regola sulla resurrezione]]
 - [[Lesioni persistenti]]
+- [[Cure potenziate]]
 - [[Tension Pool o Time Pool]]
 
 ## Cosa mi aspetto da miei giocatori
