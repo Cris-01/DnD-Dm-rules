@@ -4,7 +4,7 @@ Queste regole che ho deciso di provare sono prese dal seguente blog:
 Scusate non ho voglia di tradurre tutto; nel caso potete tradurlo direttamente con google translate. Qui di seguito una versione breve.
 
 #### Versione TL;DR
-- Reazione - in alcuni momenti posso dar al pg l'occasione di fare una reazione in base alle informazione che ha in quel momento quando per esempio scatta un trappola prima di far fare il tiro salvezza
+- Reazione - in alcuni momenti posso dar al pg l'occasione di reagire in base alle informazione che ha in quel momento quando per esempio scatta un trappola prima di far fare il tiro salvezza
 - Competenza passive come conoscenza. Se il tuo pg è competente in qualcosa ottiene automaticamente delle informazioni aggiuntive senza dover chiedere dei tiri
 - Contese di abilità contro NPC. Nel caso di contese di skill si tira contro una DC fissa data dalle competenze dell'NPC invece che tirare per entrambi
 - Lavorare insieme. Invece di ricevere vantaggio dall'aiuto, si ottengono dei bonus numerici

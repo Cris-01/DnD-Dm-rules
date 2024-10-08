@@ -1,4 +1,4 @@
-La tension pool è una regola opzionale homebrew presa dal blog dell'Angry GM che ho deciso di adottare.
+La tension pool è una regola homebrew presa dal blog dell'Angry GM che ho deciso di adottare.
 Troverete in basso il link al pdf che ne spiega le regole se volete capirla a pieno ma potete anche accontentarvi della versione breve riportata qui di seguito. E' uno strumento del DM quindi a voi interessa relativamente, ma funziona meglio se i giocatori sanno come funziona, perché aiuta a simulare l'ansia dei personaggi in game.
 
 #### TL;DR

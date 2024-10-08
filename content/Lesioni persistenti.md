@@ -1,20 +1,20 @@
-Questa regola e la tabella seguente sono versioni modificate e ampliate di una straordinaria risorsa creata da [Farland World](http://farlandworld.com/injuries.html). Questa regola homwbrew rende il combattimento più teso e le conseguenze di arrivare a 0HP più gravi, senza rendere il gioco ingiocabile/frustrante per coloro che hanno subito infortuni. Le modifiche apportate da Owen mirano a bilanciare gli infortuni per garantire che il divertimento dei giocatori rimanga al centro e aumentano anche le opportunità di gioco di ruolo e di coinvolgimento con il mondo e il gioco.
+Questa regola e la tabella seguente sono versioni modificate e ampliate di una straordinaria risorsa creata da [Farland World](http://farlandworld.com/injuries.html). Questa regola homebrew rende il combattimento più teso e le conseguenze di arrivare a 0HP più gravi, senza rendere il gioco ingiocabile/frustrante per coloro che hanno subito infortuni. Le modifiche apportate da Owen mirano a bilanciare gli infortuni per garantire che il divertimento dei giocatori rimanga al centro e aumentano anche le opportunità di gioco di ruolo e di coinvolgimento con il mondo e il gioco.
 
 #### Lesione persistente
-*Quando si scende a 0 punti ferita, una creatura deve riuscire in un tiro salvezza su Costituzione la cui CD è pari al danno totale ricevuto dal singolo colpo che ha ridotto i punti ferita a 0. Se questo tiro ha successo, procedere normalmente con i tiri salvezza sulla morte; la creatura non subisce danni permanenti. Se questo tiro fallisce la creatura deve tirare un d20 per determinare il danno permanente ricevuto in base al tipo di danno subito dal colpo finale.*
-*Un colpo critico o un danno massimo(50+) posso portare ad una lesione anche senza che il PG scenda a 0HP. In quei casi le CD sono fisse (15 per il critico, 20 per il danno massimo)*
+*Quando si scende a 0 punti ferita, una creatura deve riuscire in un tiro salvezza su Costituzione la cui CD è pari alla metà del danno totale ricevuto dal singolo colpo che ha ridotto i punti ferita a 0. Se questo tiro ha successo, procedere normalmente con i tiri salvezza sulla morte; la creatura non subisce danni permanenti. Se questo tiro fallisce la creatura deve tirare un d20 per determinare il danno permanente ricevuto in base al tipo di danno subito dal colpo finale.*
+*Un colpo critico o un danno massivo(50+) posso portare ad una lesione anche senza che il PG scenda a 0HP. In quei casi le CD sono fisse (15 per il critico, 20 per il danno massimo)*
 
-Per esempio; Jinn viene ridotto a 0 punti ferita da un attacco in mischia che ha inflitto 16 danni contundenti; Jinn deve ora effettuare un tiro salvezza su Costituzione pari a 16 o superiore per evitare di subire una lesione. In questo esempio Jinn tira solo un 12 e ora deve tirare un d20 per determinare il tipo di ferita che subisce. Jinn tira un 15 così il DM va alla tabella dei danni contundenti e informa Jinn che ha subito la ferita da Contusione Maggiore.
+Per esempio; Jinn viene ridotto a 0 punti ferita da un attacco in mischia che ha inflitto 16 danni contundenti; Jinn deve ora effettuare un tiro salvezza su Costituzione pari a 8 (16/2) o superiore per evitare di subire una lesione. In questo esempio Jinn tira solo un 6 e ora deve tirare un d20 per determinare il tipo di ferita che subisce. Jinn tira un 15 così il DM va alla tabella dei danni contundenti e informa Jinn che ha subito la ferita da Contusione Maggiore.
 
 Una creatura potrebbe subire una ferita persistente nelle seguenti circostanze:
-- Quando scende a 0 punti ferita. (CD pari al danno subito)
-- Quando subisce una ferita mentre è a 0 punti ferite (CD pari al danno subito, tiro su morte gestito normalmente).
-- Quando subisce un colpo critico. (CD 15)
-- Quando una singola fonte/attacco infligge 50 o più danni (CD20)
+- Quando scende a 0 punti ferita. (CD pari alla metà del danno subito)
+- Quando subisce una ferita mentre è a 0 punti ferite (CD pari alla metà del danno subito, tiro su morte gestito normalmente).
+- Quando subisce un colpo critico senza scendere a 0HP. (CD 15)
+- Quando una singola fonte/attacco infligge 50 o più danni senza che il PG scenda a 0HP (CD20)
 
 Per gli effetti sono state copiati da una [wiki](https://thelostarchives.fandom.com/wiki/Custom_Rules_D%26D_5e#Damage_Based_Lasting_Injuries) di un altro master.
 
-NOTA: ho fatto delle modifiche alle tabelle originali mettendo anche dei limiti in base al livello dei PG in modo che le ferite che richiedono rigenerazione o simili possano uscire solo a livelli più alti. Nel caso esca fuori un numero non compatibile col livello del party il DM opterà per un altro risultato presente in tabella che sia del livello adatto al party.
+**NOTA IMPORTANTE**: ho fatto delle modifiche alle tabelle originali mettendo anche dei limiti in base al livello dei PG in modo che le ferite che richiedono rigenerazione o simili possano uscire solo a livelli più alti. Nel caso esca fuori un numero non compatibile col livello del party il DM opterà per un altro risultato presente in tabella che sia del livello adatto al party slittando alla prima lesioni che rientra nei requisiti (in pratica si aggiunge un numero al risultato in base al livello del party per uscire dalla zone dei danni troppo severi).
 Effetti dal 1 al 3 che richiedono rigenerazioni sono bloccati fino al LV 13. Gli effetti del 4 che richiedono ristorazione maggiore sono bloccati fino al LV9.
 Gli effetti dal 5 al 10 sono bloccati fino al LV3.
 

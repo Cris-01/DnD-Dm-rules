@@ -13,7 +13,7 @@ Gli "ostacoli" possono essere di varia natura:
 
 - alcuni metodi conferiscono metà XP nel caso l'ostacolo sia "superato" temporaneamente. Questo accade quando c'è il rischio di dover superare di nuovo l'ostacolo durante l'avventura. Esempio: superare le guardie all'ingresso furtivamente per poi doverle superare di nuovo all'uscita. Se vengono poi superate in maniera permanente si ottiene l'altra metà dell'XP.
 - si potrebbero avere dei malus e perdere dell'XP se si supera malamente un incontro, come per esempio vincere un combattimento con metà del party privo di sensi quando l'incontro non era particolarmente mortale
-- Gli XP sono DI GRUPPO, quindi quando si supera un obbiettivo tutti ricevono la stessa quantità di XP anche se l'obbiettivo era magari un obbiettivo personale di un singolo PG
+- Gli XP sono DI GRUPPO, quindi quando si raggiunge un obbiettivo tutti ricevono la stessa quantità di XP anche se l'obbiettivo in questione era di un singolo PG
 
 #### Milestone
 
