@@ -11,6 +11,7 @@ Come veloce riferimento a cosa fa una regola potete trovarle al seguente [Link](
 	- *Shove aside*
 	- *Tumble*
 - *Automatic Success (DMG, page 239)*
+- *Cleaving Through Creatures (DMG, 272), solo in caso di orde di nemici di basso livello*
 - *Crafting a Magic Item (DMG p128)*
 - *Customizing Ability Scores (PHB, page 13)*
 - *Downtime activities (TUTTE)*
@@ -18,7 +19,7 @@ Come veloce riferimento a cosa fa una regola potete trovarle al seguente [Link](
 - *Equipment Sizes (PHB p145) (gli oggetti magici si riadattano magicamente quelli mondani no)*
 - *Feats (PHB p165)*
 - *Firearms and explosives(DMG p267-268) (solo su espressa richiesta dei PG)*
-- *Injuries (DMG p272) (mia versione revisitata con relative tabelle [[Lesioni persistenti]])*
+- *Injuries (DMG p272) (mia versione rivisitata con relative tabelle [[Lesioni persistenti]])*
 - *Inspiration (PHB p125; DMG p240)*
 - *Loyalty (DMG p93)*
 - *Milestone Experience (DMG p261)*
