@@ -103,7 +103,12 @@ NOTA: il PDF è stato tradotto in italiano con google traslate dall'inglese, per
 
 ### Ispirazione
 
-- Non utilizzo la regola dell'ispirazione
+- **Ottenere ispirazione** - L'ispirazione può essere ottenuta in tre modi:
+	- *Roleplay* - un giocatore può ricevere ispirazione quando quel giocatore fa sì che il suo personaggio faccia qualcosa che è coerente con il tratto della personalità, il difetto o il legame del personaggio. L'azione del personaggio dovrebbe essere notevole in qualche modo. Potrebbe far avanzare la storia, spingere gli avventurieri nel pericolo o far ridere tutti al tavolo. In sostanza, si premia il giocatore per il **roleplay *che rende il gioco più divertente per tutti gli altri***.
+	- *Eroismo* - il giocatore intraprende un'azione che mette a rischio l'incolumità del suo PG per salvare un altro PG o NPC
+	- *Ricompensa per una vittori*a - quando si sconfigge un nemico difficile o si raggiunge un obiettivo importante
+- **Tenere traccia dell'ispirazione** - I giocatori segnano l'ispirazione sulla propria scheda (max 1). L'ispirazione si mantiene anche nelle sessioni successive. Si può concedere il dado ispirazione agli altri liberamente.
+- **Spendere l'ispirazione** - l'ispirazione è un reroll del d20, che può essere usato per i tiri per colpire, tiri di abilità o tiri salvezza. Si può usare l'ispirazione dopo aver visto il risultato del dado. 
 
 ### Prove di vantaggio, svantaggio e abilità
 

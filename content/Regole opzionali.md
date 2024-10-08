@@ -19,6 +19,7 @@ Come veloce riferimento a cosa fa una regola potete trovarle al seguente [Link](
 - *Feats (PHB p165)*
 - *Firearms and explosives(DMG p267-268) (solo su espressa richiesta dei PG)*
 - *Injuries (DMG p272) (mia versione revisitata con relative tabelle [[Lesioni persistenti]])*
+- *Inspiration (PHB p125; DMG p240)*
 - *Loyalty (DMG p93)*
 - *Milestone Experience (DMG p261)*
 - *Morale (DMG p273)*
@@ -48,7 +49,6 @@ Come veloce riferimento a cosa fa una regola potete trovarle al seguente [Link](
 - *Hitting Cover (DMG p272)*
 - *Honour (DMG p264)*
 - *Initiative Variants (DMG p270)*
-- *Inspiration (PHB p125; DMG p240)*
 - *Level Advancement without XP (DMG p261)*
 - *Massive Damage (DMG p273)*
 - *Mixing Potions (DMG p140)*
