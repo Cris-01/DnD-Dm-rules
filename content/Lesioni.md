@@ -8,10 +8,10 @@ Link alla regole RAW tanto come riferimento: https://5e.tools/variantrules.html#
 *Una creatura può subire una lesione nelle seguenti circostanze:*
 - *Quando scende a 0 punti ferita. (CD pari alla metà del danno subito)*
 - *Quando subisce danni mentre è già a 0 punti ferita (CD pari alla metà del danno subito, tiro su morte gestito normalmente).*
-- *Quando subisce un colpo critico senza scendere a 0HP. (CD 15)*
-- *Quando una singola fonte/attacco infligge 50 o più danni senza che il PG scenda a 0HP (CD20)*
+- *Quando subisce un colpo critico senza scendere a 0HP. (CD 12)*
+- *Quando una singola fonte/attacco infligge 50 o più danni senza che il PG scenda a 0HP (CD15)*
 
-*In caso si verifichino più situazioni che portano ad un tiro salvezza si fa un solo tiro usando la CD più alta. Esempio un colpo critico (CD 15) che porta la creatura a 0HP (danni subiti dall'attacco 10) -> si usa la CD 15 perché più alta*
+*In caso si verifichino più situazioni che portano ad un tiro salvezza si fa un solo tiro usando la CD più alta. Esempio un colpo critico (CD 12) che porta la creatura a 0HP (danni subiti dall'attacco 10) -> si usa la CD 12 perché più alta*
 
 
 Per esempio; Jinn viene ridotto a 0 punti ferita da un attacco in mischia che ha inflitto 16 danni contundenti; Jinn deve ora effettuare un tiro salvezza su Costituzione pari a 8 (16/2) o superiore per evitare di subire una lesione. In questo esempio Jinn ottiene solo un 6 e ora deve tirare un d20 per determinare il tipo di ferita che subisce. Jinn tira un 15 così il DM va alla tabella dei danni contundenti e informa Jinn che ha subito la ferita da Contusione Maggiore (dovrà spendere risorse per curarla, fino ad allora dovrà gestire i malus).

@@ -18,7 +18,7 @@ Come veloce riferimento a cosa fa una regola potete trovarle al seguente [Link](
 - *Encumbrance variant (PHB p176)*
 - *Equipment Sizes (PHB p145) (gli oggetti magici si riadattano magicamente quelli mondani no)*
 - *Feats (PHB p165)*
-- *Firearms and explosives(DMG p267-268) (solo su espressa richiesta dei PG)*
+- *Firearms and explosives(DMG p267-268) (solo su espressa richiesta dei PG, ma saranno comunque molto rare)*
 - *Injuries (DMG p272) (mia versione rivisitata con relative tabelle [[Lesioni]])*
 - *Inspiration (PHB p125; DMG p240)*
 - *Loyalty (DMG p93)*
