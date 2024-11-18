@@ -13,14 +13,14 @@ Link alla regole RAW come riferimento: https://5e.tools/variantrules.html#injuri
 
 #### Tabella delle lesioni 
 
-|        |                   |                                                                                                             |
-| ------ | ----------------- | ----------------------------------------------------------------------------------------------------------- |
-| **d8** | **Lesione**       | **Effetti**                                                                                                 |
-| **1**  | Ferita all'occhio | Svantaggio ai tiri per colpire a distanza e sull'abilità di percezione                                      |
-| **2**  | Ferita al piede   | Velocità dimezzata, svantaggio sui tiri di acrobazia                                                        |
-| **3**  | Ferita alla mano  | Si può usare efficacemente una sola mano, quindi niente armi a due mani o scudo nella seconda mano ecc.<br> |
-| **4**  | Ferita interno    | Si può usare solo una azione o azione bonus nel proprio turno e non è possibile usare l'azione Scatto       |
-| **5**  | Ferita alla gamba | Svantaggio tiri di abilità e tiri salvezza su forza e destrezza                                             |
-| **6**  | Ferita alla testa | Svantaggio nei tiri salvezza su concentrazione e tiri di abilità su intelligenza o saggezza<br>             |
-| **7**  | Ferita al volto   | Svantaggio ai tiri di abilità su carisma (tranne intimidire)                                                |
-| **8**  | da definire       | --                                                                                                          |
+|        |                         |                                                                                                             |
+| ------ | ----------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **d8** | **Lesione**             | **Effetti**                                                                                                 |
+| **1**  | Ferita all'occhio       | Svantaggio ai tiri per colpire a distanza e sull'abilità di percezione                                      |
+| **2**  | Ferita al piede         | Velocità dimezzata, svantaggio sui tiri di acrobazia                                                        |
+| **3**  | Ferita alla mano        | Si può usare efficacemente una sola mano, quindi niente armi a due mani o scudo nella seconda mano ecc.<br> |
+| **4**  | Ferita interna          | Si può usare solo una azione o azione bonus nel proprio turno e non è possibile usare l'azione Scatto       |
+| **5**  | Ferita alla gamba       | Svantaggio tiri di abilità e tiri salvezza su forza e destrezza                                             |
+| **6**  | Ferita alla testa       | Svantaggio nei tiri salvezza su concentrazione e tiri di abilità su intelligenza o saggezza<br>             |
+| **7**  | Ferita al volto         | Svantaggio ai tiri di abilità su carisma (tranne intimidire)                                                |
+| **8**  | Forte perdità di sangue | Si guadagna un punto di indebolimento                                                                       |

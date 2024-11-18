@@ -56,25 +56,29 @@ Passaggi preliminari prima dell'inizio della campagna:
 
 Ci tengo a precisare che mi piace dare spazio a tutti e tre i pilastri di DnD ovvero *combattimento, interazione ed esplorazione*. 
 
-Qui trovate la [[Premessa della campagna]] che racchiude le caratteristiche della campagna
+Qui trovate la [[Premessa della campagna]] che racchiude le caratteristiche della campagna, del tipo di party che vorrei al tavolo e il tipo di gameplay che dovreste aspettarvi. Leggetelo perché è la cosa più importante di questo documento, capire se è il tipo di gameplay che cercate.
 
 ## Regole opzionali
 
-A questo link potete trovare un elenco delle regole opzionali fornite dalla guida del dungeon master che utilizzerò e quali non utilizzerò
+A questo link potete trovare un elenco delle regole opzionali fornite dalla Guida del Dungeon Master che utilizzerò e quali non utilizzerò
 
 [[Regole opzionali]]
+
+[[Regole per l'ottenimento dell'EXP]] (come RAW, semplicemente vado ad esplicitarle, perché normalmente ogni master fa qualche modifica, visto che il DMG lascia molta libertà di interpretazione su alcune cose)
 
 ## Regole homebrew
 
 Qui trovate le regole che non sono ufficiali ma che voglio aggiungere perché ritengo si adattino bene al tipo di gameplay che voglio ottenere. 
-A parte le modifiche alle core rules, il resto sono meccaniche che, o si aggiungono al normale funzionamento del gioco, o leggere modifiche al RAW, o sezioni in cui vado semplicemente ad esplicitare quali delle possibili varianti presentate dal DMG vado ad utilizzare
+A parte le modifiche alle core rules in cui faccio alcune piccole modifiche alle regole di base (come la gestione dei check di gruppo), il resto sono meccaniche che si aggiungono al normale funzionamento del gioco.
 
 - [[Modifiche alle core rules]]
-- [[Regole per l'ottenimento dell'EXP]] (come RAW, semplicemente vado ad esplicitarle, perché normalmente ogni master fa qualche modifica, visto che il DMG lascia molta libertà di interpretazione su alcune cose)
-- [[Lesioni]] (al 90% come da RAW, ho solo inserito delle tabelle ad hoc per i danni, con degli effetti più gestibili rispetto a quelli proposti dal DMG e qualche opzione in più su quando una lesione si può verificare, aggiungendo un tiro salvezza su costituzione per poterla evitare) --- questa regola è da playtestare
-- [[Cure potenziate]]
 - [[Regola sulla resurrezione]] (la stessa usata da Matt Mercer)
 - [[Tension Pool o Time Pool]] (è uno strumento del DM, a voi interessa il giusto)
+
+Regole opzionali create da me che vorrei playtestare. Le propongo in Sessione 0 e decido con i giocatori se vogliamo usarle o meno (le usiamo solo se tutti sono favorevoli all'idea).
+
+- [[Lesioni]] (molto più gestibili rispetto alla regola RAW opzionale) 
+- [[Cure potenziate]] 
 
 ## Cosa mi aspetto da miei giocatori
 
@@ -82,10 +86,6 @@ A parte le modifiche alle core rules, il resto sono meccaniche che, o si aggiung
 	Anche se può essere divertente interpretare un personaggio a cui piace infastidire o far arrabbiare i compagni, D&D è un gioco cooperativo in cui lavoriamo tutti insieme per divertirci. Evitate un gameplay disturbante.
 - **Condivisione dei riflettori**
 	Alcune persone adorano interpretare i propri personaggi, quindi farlo viene loro naturale. Altri non così tanto. Fate uno sforzo consapevole per condividere i riflettori con gli altri per rendere il gioco più divertente
-- **Richiedi il consenso**
-	La maggior parte delle persone capisce quanto sia importante rispettare gli altri al tavolo. Ma non tutti sanno che è altrettanto importante rispettare i personaggi. Assicurati che le persone interessate siano consapevoli di ciò che sta accadendo.
-	Se volete intraprendere una strada col vostro personaggio che incide molto sul personaggio di qualcun altro, chiedetegli off-game se a lui/lei la cosa può piacere o no.
-	Non date cose per scontato (a meno che non ruoliate insieme da tanto tempo), persone diverse cercano cose diverse al tavolo. C'è chi vuole rilassarsi e non avere conflitti mentre gioca e altri che vogliono seguire comportamenti estremi e complessi che nella vita reale non possono esplorare.
 - **Normali regole di buon senso ed educazione**
 	Siate rispettosi, gentili, puntuali e varie altre qualità che vi rendano delle persone con cui è piacevole passare del tempo insieme. Ogni eventuale problema che dovesse sorgere potremmo risolverlo parlandone fra noi 
 

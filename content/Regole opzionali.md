@@ -19,7 +19,7 @@ Come veloce riferimento a cosa fa una regola potete trovarle al seguente [Link](
 - *Equipment Sizes (PHB p145) (gli oggetti magici si riadattano magicamente quelli mondani no)*
 - *Feats (PHB p165)*
 - *Firearms and explosives(DMG p267-268) (solo su espressa richiesta dei PG, ma saranno comunque molto rare)*
-- *Injuries (DMG p272) (mia versione rivisitata con relative tabelle [[Lesioni]])*
+- *Injuries (DMG p272) (mia versione rivisitata che trovate qui [[Lesioni]], ma solo se i giocatori vogliono utilizzarla)*
 - *Inspiration (PHB p125; DMG p240)*
 - *Loyalty (DMG p93)*
 - *Milestone Experience (DMG p261)*
@@ -31,7 +31,7 @@ Come veloce riferimento a cosa fa una regola potete trovarle al seguente [Link](
 - *Playing on a Grid and Using Miniatures (PHB p192; DMG p250-252) (solo combattimenti complessi / importanti altrimenti si usa il Teatro della mente)*
 - *Renown (DMG p22; 129)*
 - *Skills with Different Abilities (PHB p175)*
-- *Training to Gain Levels (DMG p131)*
+- *Training to Gain Levels (DMG p131)* (Tempo di allenamento potrebbero essere inferiori)
 - *Variant Backgrounds (PHB p130-136)*
 - *Variant Human Traits (PHB p31)*
 

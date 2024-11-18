@@ -7,8 +7,8 @@ Scusate non ho voglia di tradurre tutto; nel caso potete tradurlo direttamente c
 - Reazione - in alcuni momenti posso dar al PG l'occasione di reagire in base alle informazione che ha in quel momento quando per esempio scatta un trappola prima di far fare il tiro salvezza
 - Competenza passive come conoscenza. Se il tuo PG è competente in qualcosa ottiene automaticamente delle informazioni aggiuntive senza dover chiedere dei tiri.
 - Contese di abilità contro NPC. Nel caso di contese di skill si tira contro una DC fissa data dalle competenze dell'NPC invece che tirare per entrambi
-- Lavorare insieme. Invece di ricevere vantaggio dall'aiuto, si ottengono dei bonus numerici
-- Check di gruppo. A seconda delle situazione, invece che far tirare ogni PG, si fa un unico tiro in base alle competenze dei PG che stanno partecipando al check
+- Lavorare insieme. Invece di ricevere vantaggio dall'aiuto, si ottengono dei bonus numerici in base a quante persone aiutano
+- Check di gruppo. A seconda delle situazione, invece che far tirare ogni PG, si fa un unico tiro in base alle competenze dei PG che stanno partecipando al check (ci sono varie casistiche)
 - Niente morte istantanea per danni subiti (regola personale non data dal blog)
 
 
@@ -40,5 +40,4 @@ _**Group Checks.**_ When several PCs are trying to accomplish something as a gr
 
 **Niente Morte Istantanea per danni elevati** (a livelli molti bassi non è divertente morire per un critico e a livelli alti semplicemente non capita mai)
 	La seguente regola non viene utilizzata: *Danni ingenti possono ucciderti all’istante. Quando il danno ti riduce a 0 punti ferita e avanzano dei punti di danno, muori se i danni restanti sono uguali o superiori ai tuoi punti ferita massimi.*
-	Incantesimi come Power Word Kill o simili funzionano normalmente.
 

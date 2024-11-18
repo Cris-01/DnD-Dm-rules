@@ -14,9 +14,10 @@
 
 ### Youtubers
 
-Se non siete tipi da libri o blog e preferite il formato video, di canali Youtube su DnD per DM ce ne sono veramente una valanga. Ne cito qualcuno di quelli che mi capita spesso di vedere, più alcuni video che mi sono rimasti impressi.
-Però a mio parere, difficilmente un video di 20 minuti riesce a migliorare di molto il modo in cui si gestisce la sessione, a meno che non si consideri una intera playlist dedicata a come condurre il gioco.
+Se non siete tipi da libri o blog e preferite il formato video, di canali Youtube su DnD per DM ce ne sono veramente una valanga. 
+Però a mio parere, difficilmente un video di 20 minuti riesce a migliorare di molto il modo in cui si gestisce la sessione, a meno che non si consideri una intera playlist dedicata a come condurre il gioco e sono molto rare come per esempio il canale di [Matthew Colville](https://www.youtube.com/@mcolville).
 Quindi il mio consiglio, se potete, è leggere libri o blog che vanno ad approfondire molto l'argomento senza saltare da un video all'altro.
+Ma tanto per dare qualche nome mettono una lista di Youtubers che ogni tanto seguo e i cui contenuti non sono male. Anche se migliori consigli, meglio organizzati, potete trovarli nei blog consigliati precedentemente
 
 - [Point hat ](https://www.youtube.com/@pointyhatstudios) 
 	- [The Key to World Building for D&D](https://www.youtube.com/watch?v=zemRYitIz_k&list=PL3lAEqLxIPTXoc954mJhrKyHZSKaZ3QBx&index=6&t=4s)
@@ -42,7 +43,6 @@ Quindi il mio consiglio, se potete, è leggere libri o blog che vanno ad approfo
 - Others
 	- [Backstories don't make Good CHARACTERS | Character Motivation Explained](https://www.youtube.com/watch?v=8n5YNDLXLm4)
 	- [The #1 Secret to Writing Iconic Characters](https://www.youtube.com/watch?v=YyHKZ5GdThM)
-	- [1 Tip for Better Backstories](https://www.youtube.com/watch?v=OqKvIe7XkoQ&t=115s)
 	- [How to craft Unforgettable NPCs - the Bones Rule ( D&D / TTRPG )](https://www.youtube.com/watch?v=S6rSYLIPt0I)
 
 ### Tool per GMing

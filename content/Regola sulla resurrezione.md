@@ -1,5 +1,7 @@
 [Fonte della regola](https://x.com/matthewmercer/status/824054305355247616?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E824054305355247616%7Ctwgr%5E97a71f91142ee4f9a05ed58a2417d51cc791c397%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.redditmedia.com%2Fmediaembed%2F5q0qv5%2F%3Fresponsive%3Dtrueis_nightmode%3Dfalse)
 
+[Link](https://5e.tools/variantrules.html#alternative%20resurrection%20rules%3a%20fading%20spirits_tdcsr) al sito 5tools che riporta la regola tratta dal manuale **Tal'Dorei Campaign Setting Reborn**
+
 #### Versione TL;DR
 - Se un PG muore, serve un rituale che possa riportarlo in vita. Se è morto entro un minuto, l'incantesimo "rinascita" offre un rituale rapido con semplice tiro di dado. Altrimenti si dovrà usare un incantesimo di livello più alto e i compagni dovranno aiutarlo a resuscitare tramite degli skill checks che potrebbero aumentare le possibilità di resurrezione. Se il rituale fallisce il PG muore definitivamente.
 
