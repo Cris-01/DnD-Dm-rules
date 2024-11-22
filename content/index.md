@@ -54,7 +54,7 @@ Passaggi preliminari prima dell'inizio della campagna:
 - giocheremo una mini avventura autoconclusiva da 5-6 sessioni, durante il periodo di creazione dei personaggi, come effettiva verifica sull'alchimia del tavolo prima di imbarcarsi in una campagna lunga
 - se i punti precedenti sono andati bene si da inizio alla campagna vera e propria
 
-Ci tengo a precisare che mi piace dare spazio a tutti e tre i pilastri di DnD ovvero *combattimento, interazione ed esplorazione*. 
+Ci tengo a precisare che mi piace dare spazio a tutti e tre i pilastri di DnD ovvero *combattimento, interazione ed esplorazione*.  
 
 Qui trovate la [[Premessa della campagna]] che racchiude le caratteristiche della campagna, del tipo di party che vorrei al tavolo e il tipo di gameplay che dovreste aspettarvi. Leggetelo perché è la cosa più importante di questo documento, capire se è il tipo di gameplay che cercate.
 
@@ -75,7 +75,7 @@ A parte le modifiche alle core rules in cui faccio alcune piccole modifiche alle
 - [[Regola sulla resurrezione]] (la stessa usata da Matt Mercer)
 - [[Tension Pool o Time Pool]] (è uno strumento del DM, a voi interessa il giusto)
 
-Regole opzionali create da me che vorrei playtestare. Le propongo in Sessione 0 e decido con i giocatori se vogliamo usarle o meno (le usiamo solo se tutti sono favorevoli all'idea).
+Le seguenti sono regole opzionali create da me che vorrei playtestare. Le propongo in Sessione 0 e decido con i giocatori se vogliamo usarle o meno (le usiamo solo se tutti sono favorevoli all'idea).
 
 - [[Lesioni]] (molto più gestibili rispetto alla regola RAW opzionale) 
 - [[Cure potenziate]] 
@@ -95,7 +95,9 @@ Per la campagna utilizzerò il metodo descritto nel libro [Proactive Roleplaying
 
 Per fare in modo che gli obiettivi dei PG siano strutturati in modo che mi siano utili alla scrittura della campagna vi lascio le linee guida suggerite nel libro
 
-[[Linee guida sulla creazione degli obiettivi]]
+[[Linee guida sulla scelta degli obiettivi dei personaggi]]
+
+[[Tutorial per la creazione del personaggio]] (per novizi)
 
 ## Conclusione
 

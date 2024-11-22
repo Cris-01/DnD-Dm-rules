@@ -50,6 +50,7 @@ Ma tanto per dare qualche nome mettono una lista di Youtubers che ogni tanto seg
 - [Comparing FIVE D&D Battle Map Making Programs | Which is the easiest?](https://www.youtube.com/watch?v=nwCWfvzuUSA)
 - [This FREE D&D campaign management app made me a better DM](https://www.youtube.com/watch?v=DBgWB1NF7hY&t=394s)
 - [Obsidian - 2024 Intro for TTRPG and Worldbuilders](https://www.youtube.com/watch?v=qV3Dp1Kki1E&t=186s)
+- [DungeonCraft tutorial playlist](https://www.youtube.com/playlist?list=PLGgCMB0gYnLHrygmreMWyil7WGVdbGAcH)
 - [How to publish your notes for free with Quartz](https://www.youtube.com/watch?v=6s6DT1yN4dw)
 - [Learning Roll20](https://www.youtube.com/playlist?list=PLaMDrDIHMitJd9u4V32GdDKwNIBeX_t1Y)
 - [Roll20 Tips & Tricks](https://www.youtube.com/playlist?list=PLqhGF2nCu23n-chowLKGkn9IBsjEmztCF) <------ questa è un MUST se usate Roll20
