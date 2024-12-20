@@ -11,15 +11,13 @@ Come veloce riferimento a cosa fa una regola potete trovarle al seguente [Link](
 	- *Shove aside*
 	- *Tumble*
 - *Automatic Success (DMG, page 239)*
-- *Cleaving Through Creatures (DMG, 272), solo in caso di orde di nemici di basso livello*
 - *Crafting a Magic Item (DMG p128)*
 - *Customizing Ability Scores (PHB, page 13)*
 - *Downtime activities (TUTTE)*
 - *Encumbrance variant (PHB p176)*
 - *Equipment Sizes (PHB p145) (gli oggetti magici si riadattano magicamente quelli mondani no)*
 - *Feats (PHB p165)*
-- *Firearms and explosives(DMG p267-268) (solo su espressa richiesta dei PG, ma saranno comunque molto rare)*
-- *Injuries (DMG p272) (mia versione rivisitata che trovate qui [[Lesioni]], ma solo se i giocatori vogliono utilizzarla)*
+- *Firearms and explosives (DMG p267-268) (solo su espressa richiesta dei PG, ma saranno comunque molto rare)*
 - *Inspiration (PHB p125; DMG p240)*
 - *Loyalty (DMG p93)*
 - *Milestone Experience (DMG p261)*
@@ -28,10 +26,9 @@ Come veloce riferimento a cosa fa una regola potete trovarle al seguente [Link](
 - *Multiclassing (PHB p163)*
 - *Piety (DMG p23)*
 - *Planar Effects (DMG p50-66)*
-- *Playing on a Grid and Using Miniatures (PHB p192; DMG p250-252) (solo combattimenti complessi / importanti altrimenti si usa il Teatro della mente)*
+- *Playing on a Grid and Using Miniatures (PHB p192; DMG p250-252) (non per tutti i combattimenti, per quelli semplici e veloci si usa il Teatro della mente)*
 - *Renown (DMG p22; 129)*
 - *Skills with Different Abilities (PHB p175)*
-- *Training to Gain Levels (DMG p131)* (Tempo di allenamento potrebbero essere inferiori)
 - *Variant Backgrounds (PHB p130-136)*
 - *Variant Human Traits (PHB p31)*
 
@@ -40,6 +37,7 @@ Come veloce riferimento a cosa fa una regola potete trovarle al seguente [Link](
 - *Alien Technology (DMG, page 268)*
 - *Alternatives to Epic Boons (DMG, page 230)*
 - *Alignment (PHB p122)*
+- *Cleaving Through Creatures (DMG, 272)*
 - *Diagonals (DMG, page 252)*
 - *Facing (DMG, page 252)*
 - *Fear and Horror (DMG p266)*
@@ -50,6 +48,7 @@ Come veloce riferimento a cosa fa una regola potete trovarle al seguente [Link](
 - *Hitting Cover (DMG p272)*
 - *Honour (DMG p264)*
 - *Initiative Variants (DMG p270)*
+- *Injuries (DMG p272)*
 - *Level Advancement without XP (DMG p261)*
 - *Massive Damage (DMG p273)*
 - *Mixing Potions (DMG p140)*
@@ -62,5 +61,6 @@ Come veloce riferimento a cosa fa una regola potete trovarle al seguente [Link](
 - *Scroll Mishaps (DMG p140)*
 - *Slow Natural Healing (DMG p267)*
 - *Spell Points (DMG p288)*
+- *Training to Gain Levels (DMG p131)* 
 - *Unearthed Arcana (online)*
 - *Wands that don’t recharge (DMG p141)*

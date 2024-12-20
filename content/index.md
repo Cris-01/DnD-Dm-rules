@@ -8,8 +8,8 @@
 | Quando                            | lunedì o martedì sera dalle 21 alle 24 come orario indicativo                                                                                                                                                      |
 | Genere                            | Fantasy Eroico                                                                                                                                                                                                     |
 | Ambientazione                     | Forgotten Realms, Faerun, Costa della spada                                                                                                                                                                        |
-| Tema campagna                     | Campagna homebrew in cui gli obiettivi dei PG definiscono la gran parte della storia                                                                                                                               |
-| Lunghezza campagna                | Lv 1-10 (indicativamente 50 sessioni). 13-15 mesi di campagna                                                                                                                                                      |
+| Modulo della campagna             | Userò come base il modulo "Storm King's Thunder" ma farò delle modifiche dove riterrò opportuno e inserirò alcuni elementi legati agli obiettivi dei personaggi all'interno della storia                           |
+| Lunghezza campagna                | Lv 1-10 (indicativamente 55 sessioni). 12-15 mesi di campagna                                                                                                                                                      |
 | Tono                              | Essendo una avventura eroica, ci saranno sia momenti rilassati sia momenti che richiederanno più serietà. Immaginatevi una cosa alla Signore degli anelli o Legend of Vox Machina (a seconda del carattere dei PG) |
 | Livello di roleplay               | Medio-alto                                                                                                                                                                                                         |
 | Numero di giocatori               | 4 giocatori                                                                                                                                                                                                        |
@@ -51,7 +51,7 @@ Passaggi preliminari prima dell'inizio della campagna:
 - mia chiacchierata con ogni giocatore per accertare che ci siano le giuste basi e che la campagna che ho in mente sia quello che effettivamente il giocatore sta cercando
 - sessione zero con tutti, dove avremo modo di conoscerci
 - inizio creazione dei personaggi, con successiva mia integrazione dei loro obiettivi nella campagna
-- giocheremo una mini avventura autoconclusiva da 5-6 sessioni, durante il periodo di creazione dei personaggi, come effettiva verifica sull'alchimia del tavolo prima di imbarcarsi in una campagna lunga
+- giocheremo una mini avventura autoconclusiva da 4 sessioni, durante il periodo di creazione dei personaggi, come effettiva verifica sull'alchimia del tavolo prima di imbarcarsi in una campagna lunga
 - se i punti precedenti sono andati bene si da inizio alla campagna vera e propria
 
 Ci tengo a precisare che mi piace dare spazio a tutti e tre i pilastri di DnD ovvero *combattimento, interazione ed esplorazione*.  
@@ -69,16 +69,19 @@ A questo link potete trovare un elenco delle regole opzionali fornite dalla Guid
 ## Regole homebrew
 
 Qui trovate le regole che non sono ufficiali ma che voglio aggiungere perché ritengo si adattino bene al tipo di gameplay che voglio ottenere. 
-A parte le modifiche alle core rules in cui faccio alcune piccole modifiche alle regole di base (come la gestione dei check di gruppo), il resto sono meccaniche che si aggiungono al normale funzionamento del gioco.
 
 - [[Modifiche alle core rules]]
-- [[Regola sulla resurrezione]] (la stessa usata da Matt Mercer)
-- [[Tension Pool o Time Pool]] (è uno strumento del DM, a voi interessa il giusto)
+- [[Tension Pool o Time Pool]] (è uno strumento ad uso del DM per gestire le complicazioni, quindi potete anche evitare di leggerlo, ma se qualcuno è curioso qui trova le info)
+
+Regola di base che non uso:
+**Morte istantanea** (pagina 197 del manuale del giocatore) 
+	*I danni massici possono uccidere un personaggio istantaneamente. Quando un ammontare di danni porta il personaggio a 0 punti ferita e restano ancora dei danni da applicare, il personaggio muore se i danni rimanenti sono pari o superiori al suo massimo dei punti ferite.*	
 
 Le seguenti sono regole opzionali create da me che vorrei playtestare. Le propongo in Sessione 0 e decido con i giocatori se vogliamo usarle o meno (le usiamo solo se tutti sono favorevoli all'idea).
 
 - [[Lesioni]] (molto più gestibili rispetto alla regola RAW opzionale) 
 - [[Cure potenziate]] 
+- [[Regola sulla resurrezione]] (la stessa usata da Matt Mercer)
 
 ## Cosa mi aspetto da miei giocatori
 
@@ -89,17 +92,11 @@ Le seguenti sono regole opzionali create da me che vorrei playtestare. Le propon
 - **Normali regole di buon senso ed educazione**
 	Siate rispettosi, gentili, puntuali e varie altre qualità che vi rendano delle persone con cui è piacevole passare del tempo insieme. Ogni eventuale problema che dovesse sorgere potremmo risolverlo parlandone fra noi 
 
-## Scelta degli obiettivi del personaggio
-
-Per la campagna utilizzerò il metodo descritto nel libro [Proactive Roleplaying](https://www.amazon.com/Game-Masters-Handbook-Proactive-Roleplaying/dp/1956403442), dove la storia della campagna è guidata principalmente dagli obiettivi dei personaggi.
-
-Per fare in modo che gli obiettivi dei PG siano strutturati in modo che mi siano utili alla scrittura della campagna vi lascio le linee guida suggerite nel libro
-
-[[Linee guida sulla scelta degli obiettivi dei personaggi]]
-
-[[Tutorial per la creazione del personaggio]] (per novizi)
-
 ## Conclusione
 
 Per eventuali dubbi contattatemi pure.
 Buon gioco a tutti!
+
+## Sezione bonus
+
+[[Tutorial per la creazione del personaggio]] (per novizi)

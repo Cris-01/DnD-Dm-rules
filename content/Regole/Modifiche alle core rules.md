@@ -1,43 +1,45 @@
 Queste regole sono prese dal seguente blog:
 	- [Tweaking the Core of D&D 5E](https://theangrygm.com/tweaking-the-core-of-dd-5e/) 
 	- [Exploration RULES!](https://theangrygm.com/exploration-rules/)
-Scusate non ho voglia di tradurre tutto; nel caso potete tradurlo direttamente con google translate. Qui di seguito una versione breve.
 
 #### Versione TL;DR
-- Reazione - in alcuni momenti posso dar al PG l'occasione di reagire in base alle informazione che ha in quel momento quando per esempio scatta un trappola prima di far fare il tiro salvezza
-- Competenza passive come conoscenza. Se il tuo PG è competente in qualcosa ottiene automaticamente delle informazioni aggiuntive senza dover chiedere dei tiri.
-- Contese di abilità contro NPC. Nel caso di contese di skill si tira contro una DC fissa data dalle competenze dell'NPC invece che tirare per entrambi
-- Lavorare insieme. Invece di ricevere vantaggio dall'aiuto, si ottengono dei bonus numerici in base a quante persone aiutano
-- Check di gruppo. A seconda delle situazione, invece che far tirare ogni PG, si fa un unico tiro in base alle competenze dei PG che stanno partecipando al check (ci sono varie casistiche)
-- Niente morte istantanea per danni subiti (regola personale non data dal blog)
+- Reazione. In alcuni momenti posso dar al PG l'occasione di reagire in base alle informazione che ha in quel momento e in base a quello che fa si applicano i risultati.
+- Competenza passive come conoscenza. Se il tuo PG è competente in qualcosa ottiene automaticamente delle informazioni aggiuntive.
+- Contese di abilità contro NPC. Nel caso di contese di skill si tira contro una DC fissa data dalle competenze dell'NPC invece che tirare per entrambi.
+- Lavorare insieme. Invece di ricevere Vantaggio dall'aiuto, si ottengono dei bonus numerici in base a quante persone aiutano.
+- Check di gruppo. A seconda delle situazione, invece che far tirare ogni PG e vedere se più della metà supera la prova, si fa un unico tiro in base alle competenze dei PG che stanno partecipando al check.
+
+**Regola di reazione**. Il GM può usare la Regola di reazione quando un personaggio a un momento per rispondere a qualcosa di inaspettato. Il GM descrive cosa il personaggio percepisce/è consapevole. Il giocatore allora descrive la sua reazione. Il GM allora determina se la reazione potrebbe evitare o mitigare l'evento inaspettato, se esso può avere successo, a se può fallire. Il GM allora chiede per un tiro salvezza o un tiro di abilità in base all'azione intrapresa. Ogni incantesimo che può essere castato con un tempo di casting di una reazione può essere usato in questa istanza.
+
+Esempio1 - Un giocatore mette il piede su una piastra a pressione che innesca un trappola di tipo fossa nascosta che si apre sotto i due personaggi posizionati più avanti del gruppo, Alice e Bob. Il GM dice al party "Alice, come il tuo piede tocca il terreno, senti la lastra di pietra cedere leggermente sotto di essa e senti un distinto click. Ha azionato una piastra a pressione. Cosa fai?" Alice, non sapendo cosa sta per succedere, dice "mi tuffo in avanti, cercando di rotolare via". Bob, anche lui non sapendo cosa sta per succedere, dice "Alzo il mio scudo e mi tengo saldo sulle gambe, stringendo i denti e provando ad assorbire qualsiasi cosa stia per colpirmi". Il GM determina che l'azione di Alice potrebbe presumibilmente farle superare la trappola-fossa. Le chiede di fare un tiro salvezza su destrezza. L'azione di Bob, tuttavia, non può aiutarlo in alcun modo. Lui cade nella fossa.
+
+Esempio2 - Carol sta provando a superare furtivamente una goblin di pattuglia per rubare un oggetto di valore.
+Il goblin sta camminando davanti a lei e lei lo sta seguendo silenziosamente alle spalle, qualche metro indietro. All'insaputa di Carol, lei ha fallito il suo tiro di furtività e il goblin sta per girarsi perché pensa di aver sentito qualcuno respirare dietro di lui. "All'improvviso, il goblin si immobilizza. Sta per girarsi, cosa fai?" Carol pensa per un minuto. "I muri della caverna sono abbastanza irregolari? Posso nascondermi in una delle pieghe o fessure?" Il GM dice, "Puoi provare, ma avrai Svantaggio perché dovrai agire in fretta" Carol pensa e dice "Tiro fuori il mio pugnale e prova ad eliminare il goblin prima che si giri". A quel punto il GM dice "okay, fai un attacco a distanza con Vantaggio visto che il goblin al momento non sa della tua presenza".
+
+**Competenze passive come conoscenza**. Tutte le competenze (abilità, strumenti, armi e armature) si presume che rappresentino sia gli usi attivi di quelle cose, sia le conoscenze di base, le tradizioni, le  informazioni e conoscenze pertinenti. Quando un giocatore con una Competenza incontra qualcosa nel gioco, il GM dovrebbe semplicemente dargli ogni informazione rilevante in base alle sue competenze.
+Si consiglia al GM di filtrare le informazioni nel testo descrittivo e nelle descrizioni di oggetti e mostri in base alle competenze nelle abilità. Inoltre, la conoscenza avanzata può essere filtrata dietro livelli specifici di conoscenza. L'abilità passiva di un personaggio è pari a 8 + modificatore di abilità + bonus di competenza. Se il personaggio ha Vantaggio su tali prove di abilità, l'abilità passiva ottiene un ulteriore +5. Se il personaggio ha Svantaggio, il personaggio subisce un ulteriore -5. Qualsiasi bonus che può essere concesso a un tiro di abilità, come da ispirazione bardica o dall'incantesimo _benedizione_ di un chierico, può essere applicato anche alle abilità passive.
+
+Esempio1 - Questa piccola grotta naturale è ricoperta da degli strani funghi fluorescenti.
+
+(*Natura*) Il fungo si trova normalmente in natura ed è inoffensivo.
+
+(*Kit da erborista / Strumenti da alchimista / Arcano*) Il fungo è utile per la creazione di antiveleno e medicine.
+
+Esempio2 - Una creature scheletrica avvolta in fasce di tessuto lacerate con occhi luminosi.
+
+(*Religione 20*) La creatura non è uno scheletro. E' un lich. Liches sono potenti utilizzatori di magia che hanno voluto trasformarsi in creature non morte. Continuano a mantenere la loro capacità di lanciare magie e altre abilità come per esempio ... 
+
+(*Religione*) La creatura non sembra affatto essere un normale scheletro.
+
+**Contese**. Quando un personaggio tenta un'azione che lo mette in diretta opposizione con le abilità o le competenze di un altro personaggio, la CD per l'azione del personaggio è 8 + il modificatore di abilità del bersaglio + il bonus di competenza del bersaglio per l'abilità pertinente. Se il bersaglio ha Vantaggio o Svantaggio sull'abilità, applica +5 o -5 alla CD. Qualsiasi bonus che può essere concesso al tiro di abilità del bersaglio, come da Ispirazione Bardica o dall'incantesimo _benedizione_ di un Chierico, può anche essere applicato alla CD. La notazione per la contesa è una prova di abilità (Skill) contro abilità (Skill). Ad esempio: tira una prova di Destrezza (Furtività) contro la Saggezza (Percezione) dell'esploratore.
+
+Esempio - Dave sta cercando di ingannare una guardia nel farlo passare. Dave tirerebbe una prova di Carisma e aggiungerebbe il suo Bonus di Competenza per la sua Abilità di Inganno. La CD sarebbe pari a 8 + il modificatore di Saggezza della guardia + il Bonus di Competenza della guardia per la sua Abilità di Intuizione.
+
+**Lavorare insieme** - Quando due o più personaggi lavorano insieme per portare a termine lo stesso compito, il personaggio con il modificatore più alto guida lo sforzo. Il leader esegue la prova di abilità appropriata e gode di un bonus di +2 per uno o due aiutanti o di un bonus di +5 per tre o più aiutanti. I personaggi possono lavorare insieme solo se si tratta di un compito in cui tale aiuto è fattibile e possibile. Inoltre, un personaggio non può aiutare in un compito nel caso egli non sia in grado di tentare la prova da solo (a causa di una mancanza di Competenza, ad esempio).
+
+**Prove di gruppo**. Quando diversi PG cercano di realizzare qualcosa come gruppo, il GM può richiedere una prova di gruppo. Per prima cosa, il GM determina se il gruppo avrà successo se un membro avrà successo (ad esempio con la ricerca) o se il gruppo fallirà se un membro fallirà (ad esempio con la furtività). Nel primo scenario, il gruppo tira una singola prova usando il modificatore di prova di caratteristica e il bonus di competenza più alti disponibili per un singolo personaggio. Se un membro del gruppo avrebbe vantaggio sulla prova, la prova viene effettuata con vantaggio. Se un membro del gruppo sta beneficiando di qualsiasi bonus che si applicherebbe alla prova, il singolo migliore di quei bonus viene applicato anche alla prova. Nel secondo scenario, il gruppo tira una singola prova usando il modificatore di prova di caratteristica e il bonus di competenza più bassi disponibili per un singolo personaggio. Se un membro del gruppo avrebbe svantaggio sulla prova, la prova viene effettuata con svantaggio. Se un membro del gruppo sta subendo delle penalità che influenzerebbero la prova, il singolo peggiore di quelle penalità viene applicato anche alla prova.
 
 
-**_The Reaction Rule._** A GM can use the Reaction Rule whenever a character has a moment to respond to something unexpected. The GM describes what the character is aware of. The player then describes their reaction. The GM then determines if the reaction could avoid or mitigate the unexpected event, whether it can succeed, and whether it can fail. The GM then asks for a Saving Throw or Ability Check based on the action. Any spell that can be cast as a Reaction can be used in this instance.
 
-_Example: A player has stepped on a pressure plate that will trigger a trap-door opening underneath the forward rank members of the party, Alice and Bob. The GM tells the party “Alice, as your foot hits the ground, you feel a tile give way and hear an audible click. You’ve triggered a pressure plate. What do you do?” Alice, not knowing what is coming, says “I tumble forwards, trying to roll out of the way.” Bob, also unaware of what is coming, says “I raise my shield and stand my ground, gritting my teeth and trying to absorb whatever is about to hit me.” The GM determines that Alice’s action could conceivably carry her forward away from the pit trap. He asks her to make a Dexterity Saving Throw. Bob’s action, however, won’t do him any good. He plunges into the pit._
 
-_Example: Carol is trying to sneak past a patrolling goblin to steal a valuable thing. The goblin is walking ahead of her and she’s creeping silently behind, several feet back. Unbeknownst to Carol, she has failed her stealth check and the goblin is about to turn around because he thought he heard her breathing. “Suddenly, the goblin freezes. He’s about to turn, what do you do?” Carol thinks for a minute. “Is the cave wall irregular enough? Can I hide in the folds and crevices?” The GM says, “You could, but you’ll have Disadvantage since you have to move fast.” Carol thinks and says, “I’ll whip my dagger and try to take out the goblin before he turns.” The GM says “okay, give me a ranged attack roll with Advantage since the goblin is currently unaware of you._
-
-**_Passive Proficiencies as Knowledge._** All Proficiencies (skills, tools, weapons, and armor) are assumed to represent both active uses of those things and relevant background knowledge, lore, information, and awareness. When a player with a Proficiency encounters something in the game, the GM should simply give them any relevant information based on their expertise. The GM is advised to gate information based on skill proficiencies in the flavor text and descriptions of items and monsters. In addition, advanced knowledge may be gated behind specific levels of knowledge. A character’s Passive Skill is equal to 8 + Ability Modifier + Proficiency Bonus. If the character has Advantage on such skill checks, the Passive Skill gains an additional +5. If the character has Disadvantage, the character suffers an additional -5. Any bonus that can be granted to a skill roll, such as from Bardic Inspiration or from a Cleric’s _bless_ spell may also be applied to Passive Skills.
-
-_This small, natural grotto is filled covered with strange glowing fungus.  
-[Nature] The fungus is naturally occurring and harmless.  
-[Herbalism Kit, Alchemy Tools or Arcana] The fungus is useful for making antivenoms and medicines._
-
-_A skeletal creature wrapped in tattered linens with glowing eyes.  
-[Religion 20] The creature is not a skeleton. It’s a lich. Liches are powerful magic users that have turned themselves into undead creatures. They retain their spellcasting abilities and have other abilities such as…  
-[Religion] The creature does not appear to be a normal skeleton at all._
-
-**_Opposed Rolls._** When a character attempts an action that puts it in direct opposition with another character’s skills or proficiencies, the DC for the character’s action is 8 + target’s Ability Modifier + target’s Proficiency Bonus for the relevant skill. If the target has Advantage or Disadvantage on the skill, apply +5 or -5 to the DC. Any bonus that can be granted to the target’s skill roll, such as from Bardic Inspiration or from a Cleric’s _bless_ spell may also be applied to the DC. The notation for this is an Ability (Skill) Check vs. Ability (Skill). E.g.: Roll a Dexterity (Stealth) check vs. the scout’s Wisdom (Perception).
-
-_Example: Dave is trying to bluff his way past a guard. Dave would roll a Charisma check and add his Proficiency Bonus for his Deception Skill. The DC would be equal to 8 + the guard’s Wisdom modifier + the guard’s Proficiency Bonus for her Insight Skill._
-
-**_Working Together._** When two or more characters work together to accomplish the same task, the character with the higher modifier leads the effort. The leader makes the appropriate ability check and enjoys a +2 bonus for one or two helpers or a +5 bonus for three or more helpers. Characters can only work together if it is task where such help is feasible and possible. In addition, a character can only help with a task if they would not be incapable of attempting the task on their own (due to a lack of Proficiency for instance).
-
-_**Group Checks.**_ When several PCs are trying to accomplish something as a group, the GM can call for a group check. First, the GM determines whether the group will succeed if any member succeeds (such as with searching) or if the group will fail if any member fails (such as with stealth). In the first scenario, the group rolls a single check using the highest ability check modifier and proficiency bonus available to any single character. If any member of the group would have advantage on the check, the check is made with advantage. If any member of the group is benefiting from any bonuses that would apply to the check, the best single one of those bonuses is also applied to the check. In the second scenario, the group rolls a single check using the lowest ability check modifier and proficiency bonus available to any single character. If any member of the group would have disadvantage on the check, the check is made with disadvantage. If any member of the group is suffering from any penalties that would affect the check, the single worst one of those penalties is also applied to the check.
-
-------
-
-**Niente Morte Istantanea per danni elevati** (a livelli molti bassi non è divertente morire per un critico e a livelli alti semplicemente non capita mai)
-	La seguente regola non viene utilizzata: *Danni ingenti possono ucciderti all’istante. Quando il danno ti riduce a 0 punti ferita e avanzano dei punti di danno, muori se i danni restanti sono uguali o superiori ai tuoi punti ferita massimi.*
 

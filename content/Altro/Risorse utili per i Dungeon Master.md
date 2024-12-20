@@ -25,6 +25,8 @@ Ma tanto per dare qualche nome mettono una lista di Youtubers che ogni tanto seg
 	- [D&D Railroading is Good Actually](https://www.youtube.com/watch?v=DJrvCbIFO1Q)
 	- [What Makes a Good D&D Character?](https://www.youtube.com/watch?v=LLVJrK22gVA&t=1014s)
 	- [Make ACTUALLY interesting D&D Characters (by giving them a drawback)](https://www.youtube.com/watch?v=HMR5zL5oTLw)
+- [The Fantasy Forge](https://www.youtube.com/@TheFantasyForge)
+	- [Dungeon Master tips](https://www.youtube.com/playlist?list=PLpHuOYxRMUyz218Cb5QVkc_o3t7IcCR1k)
 - [Ginny di](https://www.youtube.com/@GinnyDi)
 	- [Talk to your D&D party like an adult, please](https://www.youtube.com/watch?v=r5RH8Z4-ipc&list=PLsmjZYZs1ps2cLedITUonjwjKfVSNBnf-&index=45)
 	- [5 Game Master lessons I wish I’d learned earlier](https://www.youtube.com/watch?v=iWHJ-DxUvwk&list=PLsmjZYZs1ps2cLedITUonjwjKfVSNBnf-&index=35)
